@@ -1,10 +1,11 @@
-//2(a)
+#2(a)
 num = 4
 num *= 2
 num1 = num + 2
 num1 += 3
 print(num1) 
 
-//2(b)
+#2(b)
 print(2/3)
+#Using double slash to print the "floor" division of 2/3
 print(2//3)
